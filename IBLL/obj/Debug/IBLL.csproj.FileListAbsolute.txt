@@ -1,0 +1,7 @@
+E:\Project\Study\EnterpriseWeb\IBLL\bin\Debug\IBLL.dll
+E:\Project\Study\EnterpriseWeb\IBLL\bin\Debug\IBLL.pdb
+E:\Project\Study\EnterpriseWeb\IBLL\bin\Debug\Model.dll
+E:\Project\Study\EnterpriseWeb\IBLL\bin\Debug\Model.pdb
+E:\Project\Study\EnterpriseWeb\IBLL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache
+E:\Project\Study\EnterpriseWeb\IBLL\obj\Debug\IBLL.dll
+E:\Project\Study\EnterpriseWeb\IBLL\obj\Debug\IBLL.pdb

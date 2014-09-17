@@ -1,0 +1,10 @@
+E:\Project\Study\EnterpriseWeb\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Project\Study\EnterpriseWeb\DAL\bin\Debug\DAL.dll
+E:\Project\Study\EnterpriseWeb\DAL\bin\Debug\DAL.pdb
+E:\Project\Study\EnterpriseWeb\DAL\bin\Debug\EntityFramework.dll
+E:\Project\Study\EnterpriseWeb\DAL\bin\Debug\IDAL.dll
+E:\Project\Study\EnterpriseWeb\DAL\bin\Debug\Model.dll
+E:\Project\Study\EnterpriseWeb\DAL\bin\Debug\IDAL.pdb
+E:\Project\Study\EnterpriseWeb\DAL\bin\Debug\Model.pdb
+E:\Project\Study\EnterpriseWeb\DAL\obj\Debug\DAL.dll
+E:\Project\Study\EnterpriseWeb\DAL\obj\Debug\DAL.pdb

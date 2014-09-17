@@ -1,0 +1,14 @@
+E:\Project\Study\EnterpriseWeb\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Project\Study\EnterpriseWeb\BLL\bin\Debug\BLL.dll
+E:\Project\Study\EnterpriseWeb\BLL\bin\Debug\BLL.pdb
+E:\Project\Study\EnterpriseWeb\BLL\bin\Debug\DAL.dll
+E:\Project\Study\EnterpriseWeb\BLL\bin\Debug\IBLL.dll
+E:\Project\Study\EnterpriseWeb\BLL\bin\Debug\IDAL.dll
+E:\Project\Study\EnterpriseWeb\BLL\bin\Debug\EntityFramework.dll
+E:\Project\Study\EnterpriseWeb\BLL\bin\Debug\Model.dll
+E:\Project\Study\EnterpriseWeb\BLL\bin\Debug\DAL.pdb
+E:\Project\Study\EnterpriseWeb\BLL\bin\Debug\IBLL.pdb
+E:\Project\Study\EnterpriseWeb\BLL\bin\Debug\IDAL.pdb
+E:\Project\Study\EnterpriseWeb\BLL\bin\Debug\Model.pdb
+E:\Project\Study\EnterpriseWeb\BLL\obj\Debug\BLL.dll
+E:\Project\Study\EnterpriseWeb\BLL\obj\Debug\BLL.pdb

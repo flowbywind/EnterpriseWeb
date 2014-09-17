@@ -1,0 +1,5 @@
+E:\Project\Study\EnterpriseWeb\Model\bin\Debug\Model.dll
+E:\Project\Study\EnterpriseWeb\Model\bin\Debug\Model.pdb
+E:\Project\Study\EnterpriseWeb\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Project\Study\EnterpriseWeb\Model\obj\Debug\Model.dll
+E:\Project\Study\EnterpriseWeb\Model\obj\Debug\Model.pdb
